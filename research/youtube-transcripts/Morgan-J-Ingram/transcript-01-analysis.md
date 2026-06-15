@@ -17,7 +17,7 @@ Core Takeaways
 -   Look for buying indicators like company growth, hiring, and position changes.
 -   Personalized communications yield better results than generic ones.
 
-Frameworks Highlighted
+Frameworks Highlighted-
 
 Five Fundamental Sales Navigator Filters
 
@@ -27,17 +27,19 @@ Five Fundamental Sales Navigator Filters
 -   Former company, now current company
 -   Profile view
 
-Growth Signal Framework
+Growth Signal Framework-
 
 Company Growth
-
++
 Hiring Increases
-
++
 Business Requirements
-
++
 Sales Potential
 
-Alignment with a LinkedIn Organic Content Strategy
+
+
+Alignment with a LinkedIn Organic Content Strategy-
 
 Content Generation
 
