@@ -31,7 +31,7 @@ LinkedIn Content Insight: Personal anecdotes and leadership reflections add a hu
 
 Post 3 - https://www.linkedin.com/posts/officialg_organic-traffic-is-still-worth-tracking-activity-7465012640856133633--aid?utm_source=share&utm_medium=member_desktop&rcm=ACoAACmoN_QBFD7a5oDkSWXKsSYrIq7n4NhkB24
 
-Date: May 2026
+Date: May, 2026
 
 Topic: Redefining SEO measurement in B2B SaaS.
 
