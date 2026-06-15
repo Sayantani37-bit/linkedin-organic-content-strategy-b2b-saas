@@ -1,9 +1,9 @@
 
 Analysis of Rand Fishkin's LinkedIn Posts
 
-Post 1
+Post 1 - https://www.linkedin.com/posts/randfishkin_ive-been-following-sparktoro-for-two-years-activity-7470961299670183936-6L9R?utm_source=share&utm_medium=member_desktop&rcm=ACoAACmoN_QBFD7a5oDkSWXKsSYrIq7n4NhkB24
 
-Date: June 13, 2026
+Date: June, 2026
 
 Subject: Audience Research Before Marketing Decisions
 
@@ -14,9 +14,9 @@ LinkedIn Content Insight: Showing concrete use cases and customer success storie
 
 ---
 
-Post 2
+Post 2 - https://www.linkedin.com/posts/randfishkin_if-your-linkedin-posts-arent-getting-the-activity-7470882353431900160-IMz9?utm_source=share&utm_medium=member_desktop&rcm=ACoAACmoN_QBFD7a5oDkSWXKsSYrIq7n4NhkB24
 
-Date: June 12, 2026
+Date: June, 2026
 
 Subject: Improving LinkedIn Reach and Engagement
 
@@ -28,9 +28,9 @@ LinkedIn Content Insight: Promotional posts for podcast appearances can broaden 
 
 ---
 
-Post 3
+Post 3 - https://www.linkedin.com/posts/randfishkin_new-research-httpslnkdingaim4dy9-68-activity-7469982213934211072-zstI?utm_source=share&utm_medium=member_desktop&rcm=ACoAACmoN_QBFD7a5oDkSWXKsSYrIq7n4NhkB24
 
-Date: June 10, 2026
+Date: June, 2026
 
 Subject: The Rise of Zero-Click Search
 
@@ -42,9 +42,9 @@ LinkedIn Content Insight: Data-driven insights establish credibility and spark i
 
 ---
 
-Post 4
+Post 4 - https://www.linkedin.com/posts/randfishkin_the-death-of-clicks-rand-fishkin-on-brand-activity-7468575767635890176-znz0?utm_source=share&utm_medium=member_desktop&rcm=ACoAACmoN_QBFD7a5oDkSWXKsSYrIq7n4NhkB24
 
-Date: June 7, 2026
+Date: June, 2026
 
 Subject: Marketing Beyond Traffic Metrics
 
@@ -55,9 +55,9 @@ LinkedIn Content Insight: Provocative analysis of industry trends fosters engage
 
 ---
 
-Post 5
+Post 5 - https://www.linkedin.com/posts/randfishkin_no-person-in-my-feed-today-were-not-saying-activity-7468065715309334528-NbxM?utm_source=share&utm_medium=member_desktop&rcm=ACoAACmoN_QBFD7a5oDkSWXKsSYrIq7n4NhkB24
 
-Date: June 7, 2026
+Date: June, 2026
 Subject: Living in a Zero-Click World
 
 Summary: Rand addresses common misunderstandings about zero-click marketing, clarifying that while the internet and search aren't disappearing, user behavior is changing. He advises brands to focus on marketing on channels they don't own and optimizing for audience influence instead of just website traffic.
