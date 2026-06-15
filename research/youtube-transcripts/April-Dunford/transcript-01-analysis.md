@@ -71,10 +71,7 @@ Distribution:
 * Consistently reinforce your positioning.
 * Ensure every piece of content is aligned to your message.
 
-Key Learnings Summary:
 
-* Positioning forms the basis of all messaging.
-* You can effectively position your B2B SaaS company with the Big Fish Small     Pond strategy before expanding.
-* Category creation should be the exception, not the rule.
-* The principles for product positioning apply equally well to personal branding.
-* Building authority takes specialization and sustained effort over a long period of time.
+Conclusion:
+
+April Dunford's premise for this book is "Positioning is what you're doing marketing, messaging, and growing." April proves how individuals and companies achieve more by honing in on their particular niche, clearly articulating what they are known for as differentiated from others, and steadily becoming known as the authority in this space. The formula for B2B SaaSers for growing on LinkedIn is by educating themselves, clear positioning, and becoming the subject matter expert on an extremely narrowly defined niche.
