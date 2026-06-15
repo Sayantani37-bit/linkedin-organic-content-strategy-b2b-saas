@@ -1,6 +1,6 @@
 Morgan J. Ingram - LinkedIn Post Analysis
 
-Post 1
+Post 1 - https://www.linkedin.com/posts/morganjingramamp_my-take-is-that-the-way-were-chasing-ai-activity-7470448451105759232-L1x9?utm_source=share&utm_medium=member_desktop&rcm=ACoAACmoN_QBFD7a5oDkSWXKsSYrIq7n4NhkB24
 
 Date: June 11, 2026
 Topic: Integrating AI efficiency with human capabilities in sales.
@@ -11,7 +11,7 @@ Takeaway: AI should augment human capabilities rather than replacing critical th
 
 LinkedIn Content Insight: Morgan uses a contrasting perspective to provoke conversation and gain more engagement.
 
-Post 2
+Post 2 - https://www.linkedin.com/posts/morganjingramamp_this-one-claude-prompt-replaced-3-hours-of-activity-7470114548918841344-Rm-6?utm_source=share&utm_medium=member_desktop&rcm=ACoAACmoN_QBFD7a5oDkSWXKsSYrIq7n4NhkB24
 
 Date: June 10, 2026
 Topic: Buyer research with AI.
@@ -22,7 +22,7 @@ Takeaway: AI speeds up the research process, but personalization and interpretat
 
 LinkedIn Content Insight: When a piece of content is practical, it tends to achieve a high level of engagement.
 
-Post 3
+Post 3 - https://www.linkedin.com/posts/morganjingramamp_after-a-decade-in-outbound-i-think-i-finally-activity-7469742943440916480-6ipi?utm_source=share&utm_medium=member_desktop&rcm=ACoAACmoN_QBFD7a5oDkSWXKsSYrIq7n4NhkB24
 
 Date: June 9, 2026
 Topic: Sales future in the age of AI.
@@ -33,7 +33,7 @@ Takeaway: Human skills like communication and building rapport become stronger s
 
 LinkedIn Content Insight: A well-known proprietary framework would aid in establishing leadership and increasing memorability.
 
-Post 4
+Post 4 - https://www.linkedin.com/posts/morganjingramamp_two-years-ago-i-looked-around-the-valley-activity-7469380328453943297-daxP?utm_source=share&utm_medium=member_desktop&rcm=ACoAACmoN_QBFD7a5oDkSWXKsSYrIq7n4NhkB24
 
 Date: June 8, 2026
 Topic: Community building through face-to-face events.
@@ -44,7 +44,7 @@ Takeaway: Real human connections are the foundation of successful business commu
 
 LinkedIn Content Insight: Stories of past failures/successes and the building of communities can create a bond with your audience.
 
-Post 5
+Post 5 - https://www.linkedin.com/posts/morganjingramamp_i-believe-sdrae-teams-need-to-spend-less-activity-7467920464514809856-c-B8?utm_source=share&utm_medium=member_desktop&rcm=ACoAACmoN_QBFD7a5oDkSWXKsSYrIq7n4NhkB24
 
 Date: June 7, 2026
 Topic: Business acumen and AI reliance.
