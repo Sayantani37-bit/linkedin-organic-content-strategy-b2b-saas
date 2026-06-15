@@ -1,8 +1,8 @@
 Ty Magnin - LinkedIn Post Analysis
 
-Post 1
+Post 1 - https://www.linkedin.com/posts/tylermagnin_if-youre-interested-in-building-on-airops-ugcPost-7470601607689314305-Ya2_/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACmoN_QBFD7a5oDkSWXKsSYrIq7n4NhkB24
 
-Date: June 11, 2026
+Date: June, 2026
 
 Topic: Building Scalable Content Operations
 
@@ -14,9 +14,9 @@ LinkedIn Content Insight: Case studies and how-to-guides help showcase their aut
 
 ---
 
-Post 2
+Post 2 - https://www.linkedin.com/posts/tylermagnin_people-find-animalz-because-we-rank-in-ai-activity-7468324298278129664-8Nke?utm_source=share&utm_medium=member_desktop&rcm=ACoAACmoN_QBFD7a5oDkSWXKsSYrIq7n4NhkB24
 
-Date: June 7, 2026
+Date: June, 2026
 
 Topic: Brand Building vs AI Search Optimization
 
@@ -28,7 +28,7 @@ LinkedIn Content Insight: Challenging common knowledge within an industry leads 
 
 ---
 
-Post 3
+Post 3 - https://www.linkedin.com/posts/tylermagnin_theres-a-feature-in-ahrefs-ive-been-watching-activity-7465031528960589824-LzcF?utm_source=share&utm_medium=member_desktop&rcm=ACoAACmoN_QBFD7a5oDkSWXKsSYrIq7n4NhkB24
 
 Date:
 May, 2026
@@ -47,7 +47,7 @@ Using tool-based observations and data to provide expert opinions is very powerf
 
 ---
 
-Post 4
+Post 4 - https://www.linkedin.com/posts/tylermagnin_today-were-launching-airops-implementation-activity-7463349162344882178-8juJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAACmoN_QBFD7a5oDkSWXKsSYrIq7n4NhkB24
 
 Date:
 May, 2026
@@ -66,7 +66,7 @@ Sharing customer success stories provides a great form of social proof for their
 
 ---
 
-Post 5
+Post 5 - https://www.linkedin.com/posts/tylermagnin_had-a-great-time-at-airops-next-yesterday-activity-7460810029181509632-1nyj?utm_source=share&utm_medium=member_desktop&rcm=ACoAACmoN_QBFD7a5oDkSWXKsSYrIq7n4NhkB24
 
 Date:
 May, 2026
@@ -83,7 +83,10 @@ Unique viewpoints and original thoughts will become a competitive necessity in A
 LinkedIn Content Insight:
 Recapping relevant industry events helps readers stay informed and highlights the author's industry expertise.
 
-Relevance to LinkedIn Organic Content Strategy
+---
+
+
+Relevance to LinkedIn Organic Content Strategy:
 
 Ty Magnin effectively uses LinkedIn to demonstrate authority in the B2B SaaS world by sharing practical and strategic content around how companies can leverage AI tools for success. He constantly reinforces the value of merging brand building with technology-driven strategies.
 
