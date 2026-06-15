@@ -85,6 +85,6 @@ Distribution
 - Use LinkedIn as your main audience-building channel.
 - Use further insights in blogs, newsletters, podcasts, etc.
 
-Key Takeaway:
+Conclusion:
 
 To succeed as a B2B creator, you need to have real expertise and consistently publish unique insights based on your understanding of customer needs.
