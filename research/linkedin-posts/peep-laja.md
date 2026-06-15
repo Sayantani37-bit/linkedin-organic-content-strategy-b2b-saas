@@ -1,8 +1,8 @@
 Analyzing Peep Laja's LinkedIn Posts
 
-Post 1
+Post 1 - https://www.linkedin.com/posts/peeplaja_when-b2b-vendors-look-the-same-buyers-go-activity-7471154358043455488-zqUe?utm_source=share&utm_medium=member_desktop&rcm=ACoAACmoN_QBFD7a5oDkSWXKsSYrIq7n4NhkB24
 
-Date: June 13, 2026
+Date: June, 2026
 
 Topic: Why clear Differentiation is important
 
@@ -14,9 +14,9 @@ LinkedIn Content Insight: Backing up advice with research makes it more believab
 
 ---
 
-Post 2
+Post 2 - https://www.linkedin.com/posts/peeplaja_64-of-buyers-said-it-is-hard-to-tell-competing-activity-7470791975546445824-yWxe?utm_source=share&utm_medium=member_desktop&rcm=ACoAACmoN_QBFD7a5oDkSWXKsSYrIq7n4NhkB24
 
-Date: June 12, 2026
+Date: June, 2026
 
 Topic: Why Most SaaS Websites Fail to Differentiate
 
@@ -28,9 +28,9 @@ LinkedIn Content Insight: Presenting his own survey data helps establish him as 
 
 ---
 
-Post 3
+Post 3 - https://www.linkedin.com/posts/peeplaja_we-took-the-value-prop-copy-from-the-5-biggest-activity-7470429599227838464-gfsV?utm_source=share&utm_medium=member_desktop&rcm=ACoAACmoN_QBFD7a5oDkSWXKsSYrIq7n4NhkB24
 
-Date: June 11, 2026
+Date: June, 2026
 
 Topic: Why Value Propositions Need a Specific Touch
 
@@ -42,9 +42,9 @@ LinkedIn Content Insight: Data-driven experiments make for really engaging conte
 
 ---
 
-Post 4
+Post 4 - https://www.linkedin.com/posts/peeplaja_most-agency-founders-or-consultants-are-thinking-activity-7469704785223426049-ReYL?utm_source=share&utm_medium=member_desktop&rcm=ACoAACmoN_QBFD7a5oDkSWXKsSYrIq7n4NhkB24
 
-Date: June 9, 2026
+Date: June, 2026
 
 Topic: Moving from Services to a Product Business
 
@@ -56,9 +56,9 @@ LinkedIn Content Insight: Sharing his own experience, while offering solid advic
 
 ---
 
-Post 5
+Post 5 - https://www.linkedin.com/posts/peeplaja_what-any-job-is-is-evolving-a-job-is-essentially-activity-7468618879205027840-Ebm1?utm_source=share&utm_medium=member_desktop&rcm=ACoAACmoN_QBFD7a5oDkSWXKsSYrIq7n4NhkB24
 
-Date: June 7, 2026
+Date: June, 2026
 
 Topic: Marketing Roles and AI
 
