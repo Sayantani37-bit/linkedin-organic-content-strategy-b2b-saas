@@ -2,9 +2,9 @@
 Gaetano Nino DiNardi —LinkedIn Post Analysis
 
 
-Post 1
+Post 1 - https://www.linkedin.com/posts/officialg_one-of-the-hardest-things-about-traffic-share-7471554304810680320-a9jv/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACmoN_QBFD7a5oDkSWXKsSYrIq7n4NhkB24
 
-Date: 14 June 2026
+Date: June, 2026
 
 Topic: How executives perceive SEO results and why it might dip.
 
@@ -16,9 +16,9 @@ LinkedIn Content Insight: This type of executive-oriented content is valuable be
 
 ---
 
-Post 2
+Post 2 - https://www.linkedin.com/posts/officialg_i-had-a-great-meeting-with-karthik-chidambaram-activity-7465741178379104256-IgJd?utm_source=share&utm_medium=member_desktop&rcm=ACoAACmoN_QBFD7a5oDkSWXKsSYrIq7n4NhkB24
 
-Date: 31st May, 2026
+Date: May, 2026
 
 Topic: Leadership Through Process Improvement
 
@@ -29,7 +29,8 @@ LinkedIn Content Insight: Personal anecdotes and leadership reflections add a hu
 
 ---
 
-Post 3: 
+Post 3 - https://www.linkedin.com/posts/officialg_organic-traffic-is-still-worth-tracking-activity-7465012640856133633--aid?utm_source=share&utm_medium=member_desktop&rcm=ACoAACmoN_QBFD7a5oDkSWXKsSYrIq7n4NhkB24
+
 Date: May 2026
 
 Topic: Redefining SEO measurement in B2B SaaS.
@@ -42,9 +43,9 @@ Summary: Gaetano suggests that in B2B SaaS, SEO traffic shouldn't be tracked uni
 
 ---
 
-Post 4: 
+Post 4 - https://www.linkedin.com/posts/officialg_i-had-a-great-catch-up-with-my-homie-nigel-activity-7463672550670376961-BdTk?utm_source=share&utm_medium=member_desktop&rcm=ACoAACmoN_QBFD7a5oDkSWXKsSYrIq7n4NhkB24
 
-Date: May 2026
+Date: May, 2026
 
 Topic: The evolving challenges of B2B marketing.
 
@@ -56,8 +57,9 @@ LinkedIn Content Insight: Honest observations and industry reflections create an
 
 ---
 
-Post 5: SEO Growth Expectations for Challenger Brands
-Date: May 2026
+Post 5 - https://www.linkedin.com/posts/officialg_if-youre-a-challenger-brand-going-up-against-activity-7463258679061037056-sQ_f?utm_source=share&utm_medium=member_desktop&rcm=ACoAACmoN_QBFD7a5oDkSWXKsSYrIq7n4NhkB24
+
+Date: May, 2026
 
 Topic: SEO Growth Expectations for Challenger Brands
 
