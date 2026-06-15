@@ -1,10 +1,10 @@
 
 Anthony Pierri - LinkedIn Post Analysis
 
-Post 1
+Post 1 - https://www.linkedin.com/posts/anthonypierri_founders-think-if-they-just-launch-this-activity-7471212357038297088-2PEm?utm_source=share&utm_medium=member_desktop&rcm=ACoAACmoN_QBFD7a5oDkSWXKsSYrIq7n4NhkB24
 
 Date:
-June 13, 2026
+June, 2026
 
 Subject:
 The Feature Trap vs Product-Market Fit
@@ -20,10 +20,10 @@ Anthony addresses the general advice on startups by using his unique insights, w
 
 ---
 
-Post 2
+Post 2 - https://www.linkedin.com/posts/anthonypierri_the-ceo-has-the-final-say-so-we-should-activity-7470465077695942658-jubP?utm_source=share&utm_medium=member_desktop&rcm=ACoAACmoN_QBFD7a5oDkSWXKsSYrIq7n4NhkB24
 
 Date:
-June 11, 2026
+June, 2026
 
 Subject:
 Who Should Your Homepage be Written for?
@@ -39,10 +39,10 @@ When common marketing thoughts are challenged with insightful information, it ca
 
 ---
 
-Post 3
+Post 3 - https://www.linkedin.com/posts/anthonypierri_im-not-saying-all-marketers-are-liars-activity-7470117293679763458-T4kt?utm_source=share&utm_medium=member_desktop&rcm=ACoAACmoN_QBFD7a5oDkSWXKsSYrIq7n4NhkB24
 
 Date:
-June 10, 2026
+June, 2026
 
 Subject:
 The Problem with Outcome-Based Marketing
@@ -58,10 +58,10 @@ Educational articles in a longer format can boost credibility by going into more
 
 ---
 
-Post 4
+Post 4 - https://www.linkedin.com/posts/anthonypierri_look-at-your-homepage-and-see-how-you-answer-activity-7469725006789427201-Dgr2?utm_source=share&utm_medium=member_desktop&rcm=ACoAACmoN_QBFD7a5oDkSWXKsSYrIq7n4NhkB24
 
 Date:
-June 9, 2026
+June, 2026
 
 Subject:
 What Is Your Product?
@@ -77,10 +77,10 @@ The visual charts and simple diagnosis questions presented help make positioning
 
 ---
 
-Post 5
+Post 5 - https://www.linkedin.com/posts/anthonypierri_people-overcomplicate-positioning-there-activity-7468383258863423488-Phf2?utm_source=share&utm_medium=member_desktop&rcm=ACoAACmoN_QBFD7a5oDkSWXKsSYrIq7n4NhkB24
 
 Date:
-June 7, 2026
+June, 2026
 
 Subject:
 Three core positioning strategies
