@@ -1,4 +1,4 @@
-Gaetano DiNardi Interview Analysis
+Gaetano DiNardi Interview Analysis:
 
 Main Topics:
 SEO in the AI Era,
