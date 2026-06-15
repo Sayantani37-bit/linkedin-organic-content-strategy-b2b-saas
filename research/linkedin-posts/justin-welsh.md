@@ -1,6 +1,7 @@
 Justin Welsh - Latest LinkedIn Post Analysis(5 latest Posts):
 
-Post 1-
+Post 1- <img width="1062" height="710" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/74da6150-d2bd-4e29-a0d0-00fff33cb98b" />
+
 
 Date: 12th June 2026
 
@@ -18,7 +19,8 @@ Sharing personal stories and vulnerability helps build trust and creates stronge
 
 ---
 
-Post 2-
+Post 2- <img width="1048" height="704" alt="Screenshot (34)" src="https://github.com/user-attachments/assets/1def7aea-44c6-4208-b1e5-de66c8621d29" />
+
 
 Date: 11th June 2026
 
@@ -36,7 +38,8 @@ Inspiring and encouraging posts usually lead to more engagement because they bui
 
 ---
 
-Post 3-
+Post 3- <img width="1045" height="709" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/c263a8e1-f6a6-4a4e-9874-e235ea917cee" />
+
 
 Date: 10th June 2026
 
@@ -54,7 +57,8 @@ Storytelling along with a clear lesson makes content more memorable and shareabl
 
 ---
 
-Post 4-
+Post 4- <img width="1047" height="708" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/cc99b671-7ab2-40b9-8a11-5c030ce824c8" />
+
 
 Date: 7th June 2026
 
@@ -72,7 +76,8 @@ Framework-based posts perform well because they break complex ideas into actiona
 
 ---
 
-Post 5-
+Post 5- <img width="1048" height="717" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/391e5238-f1b7-4a29-91c5-04ff0051208b" />
+
 
 Date: 6th June 2026
 
