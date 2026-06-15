@@ -1,9 +1,9 @@
 Ross Simmonds - LinkedIn Post Analysis
 
-Post 1 - <img width="1126" height="712" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/dd99000f-3170-4936-a51c-28684279bad8" />
+Post 1 - https://www.linkedin.com/posts/rosssimmonds_marketing-contentmarketing-semrushpartner-share-7470647163249897472-w2BW/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACmoN_QBFD7a5oDkSWXKsSYrIq7n4NhkB24
 
 
-Date: 12th June 2026
+Date: June, 2026
 
 Topic:
 AI Search Visibility and Brand Discovery
@@ -19,10 +19,10 @@ Ross mixes industry trends with educational resources. This positions him as a t
 
 ---
 
-Post 2 - <img width="1125" height="709" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/1658f3b7-d5d6-4fe4-819b-dc4f3b545400" />
+Post 2 - https://www.linkedin.com/posts/rosssimmonds_marketing-b2bmarketing-activity-7470098449162551297-3O-F?utm_source=share&utm_medium=member_desktop&rcm=ACoAACmoN_QBFD7a5oDkSWXKsSYrIq7n4NhkB24
 
 
-Date: 10th June 2026
+Date: June, 2026
 
 Topic:
 AI Visibility Masterclass and Industry Research
@@ -38,10 +38,10 @@ By using event announcements to share expertise and original research, he builds
 
 ---
 
-Post 3 - <img width="548" height="799" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/b7c6f848-4dc2-4c3b-bca6-cdb5b1ee29ba" />
+Post 3 - https://www.linkedin.com/posts/rosssimmonds_in-case-no-one-has-told-you-lately-that-activity-7469859555582218240--_52?utm_source=share&utm_medium=member_desktop&rcm=ACoAACmoN_QBFD7a5oDkSWXKsSYrIq7n4NhkB24
 
 
-Date: 10th June 2026
+Date: June, 2026
 
 Topic:
 Content Distribution and Repurposing
@@ -57,10 +57,10 @@ Short, memorable posts can reinforce key marketing principles and encourage enga
 
 ---
 
-Post 4 - <img width="618" height="625" alt="Screenshot (51)" src="https://github.com/user-attachments/assets/a6e75a66-459c-4eaa-b742-9f9bf200b8d2" />
+Post 4 - https://www.linkedin.com/posts/rosssimmonds_meetings-are-where-productivity-goes-to-die-activity-7469780367005224960-QiqV?utm_source=share&utm_medium=member_desktop&rcm=ACoAACmoN_QBFD7a5oDkSWXKsSYrIq7n4NhkB24
 
 
-Date: 9th June 2026
+Date: June,2026
 
 Topic:
 Productivity and Meeting Culture
@@ -76,10 +76,10 @@ Opinion-driven posts challenge conventional thinking and spark audience discussi
 
 ---
 
-Post 5 - <img width="618" height="809" alt="Screenshot (53)" src="https://github.com/user-attachments/assets/5d29665e-cace-4820-af50-bf71510d0196" />
+Post 5 - https://www.linkedin.com/posts/rosssimmonds_does-anyone-know-why-some-of-the-biggest-activity-7468980689506430976-OsgV?utm_source=share&utm_medium=member_desktop&rcm=ACoAACmoN_QBFD7a5oDkSWXKsSYrIq7n4NhkB24
 
 
-Date: 7th June 2026
+Date: June, 2026
 
 Topic:
 Community Building in the Age of AI
