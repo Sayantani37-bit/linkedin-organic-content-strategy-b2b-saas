@@ -1,4 +1,4 @@
-Analysis of Morgan J. Ingram YouTube Transcript
+Morgan J. Ingram YouTube Transcript Analysis:
 
 Key Themes:
 
