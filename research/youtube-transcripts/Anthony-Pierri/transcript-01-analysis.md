@@ -72,7 +72,7 @@ Distribution:
 
 *   Positioning on LinkedIn should align with messages used on websites, in newsletters, and in sales conversations.
 
-Key Takeaway:
+Conclusion:
 
-*   Excellent LinkedIn content can be achieved by focusing on clear positioning, targeting the correct audience, and identifying a unique point of view, instead of aiming to appeal to every single person.
+Excellent LinkedIn content can be achieved by focusing on clear positioning, targeting the correct audience, and identifying a unique point of view, instead of aiming to appeal to every single person.
 
