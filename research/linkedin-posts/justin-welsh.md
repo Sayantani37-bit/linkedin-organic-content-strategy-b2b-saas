@@ -1,9 +1,9 @@
 Justin Welsh - Latest LinkedIn Post Analysis(5 latest Posts):
 
-Post 1- <img width="1062" height="710" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/74da6150-d2bd-4e29-a0d0-00fff33cb98b" />
+Post 1- https://www.linkedin.com/posts/justinwelsh_dont-speak-poorly-about-yourself-because-activity-7471166507822256128-yeGr?utm_source=share&utm_medium=member_desktop&rcm=ACoAACmoN_QBFD7a5oDkSWXKsSYrIq7n4NhkB24
 
 
-Date: 12th June 2026
+Date: June, 2026
 
 Topic:  
 Self-belief and long-term career growth
@@ -19,10 +19,10 @@ Sharing personal stories and vulnerability helps build trust and creates stronge
 
 ---
 
-Post 2- <img width="1048" height="704" alt="Screenshot (34)" src="https://github.com/user-attachments/assets/1def7aea-44c6-4208-b1e5-de66c8621d29" />
+Post 2- https://www.linkedin.com/posts/justinwelsh_i-dont-care-if-you-like-me-or-not-im-activity-7470804122296893440-JPvq?utm_source=share&utm_medium=member_desktop&rcm=ACoAACmoN_QBFD7a5oDkSWXKsSYrIq7n4NhkB24
 
 
-Date: 11th June 2026
+Date: June, 2026
 
 Topic:  
 Abundance mindset and supporting others
@@ -38,10 +38,10 @@ Inspiring and encouraging posts usually lead to more engagement because they bui
 
 ---
 
-Post 3- <img width="1045" height="709" alt="Screenshot (36)" src="https://github.com/user-attachments/assets/c263a8e1-f6a6-4a4e-9874-e235ea917cee" />
+Post 3- https://www.linkedin.com/posts/justinwelsh_i-got-fired-three-times-before-i-turned-28-activity-7470441746372472833-gAHX?utm_source=share&utm_medium=member_desktop&rcm=ACoAACmoN_QBFD7a5oDkSWXKsSYrIq7n4NhkB24
 
 
-Date: 10th June 2026
+Date: June, 2026
 
 Topic:  
 Making unconventional career decisions
@@ -57,10 +57,10 @@ Storytelling along with a clear lesson makes content more memorable and shareabl
 
 ---
 
-Post 4- <img width="1047" height="708" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/cc99b671-7ab2-40b9-8a11-5c030ce824c8" />
+Post 4- https://www.linkedin.com/posts/justinwelsh_everyones-working-for-the-cheat-code-and-activity-7469354567831560192-5e1i?utm_source=share&utm_medium=member_desktop&rcm=ACoAACmoN_QBFD7a5oDkSWXKsSYrIq7n4NhkB24
 
 
-Date: 7th June 2026
+Date: June, 2026
 
 Topic:  
 The reality of business success
@@ -76,10 +76,9 @@ Framework-based posts perform well because they break complex ideas into actiona
 
 ---
 
-Post 5- <img width="1048" height="717" alt="Screenshot (42)" src="https://github.com/user-attachments/assets/391e5238-f1b7-4a29-91c5-04ff0051208b" />
+Post 5- https://www.linkedin.com/posts/justinwelsh_ad-kajabipartner-activity-7468147114741628929-3rrr?utm_source=share&utm_medium=member_desktop&rcm=ACoAACmoN_QBFD7a5oDkSWXKsSYrIq7n4NhkB24
 
-
-Date: 6th June 2026
+Date: June, 2026
 
 Topic:  
 Business simplification and focus
