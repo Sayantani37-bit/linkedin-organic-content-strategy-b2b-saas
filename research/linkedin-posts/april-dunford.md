@@ -1,8 +1,8 @@
 April Dunford - LinkedIn Post Analysis
 
-Post 1
+Post 1 - https://www.linkedin.com/posts/aprildunford_when-we-have-big-changes-in-a-market-like-share-7470826615112130560-04ky/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACmoN_QBFD7a5oDkSWXKsSYrIq7n4NhkB24
 
-Date: June 12, 2026
+Date: June, 2026
 
 Topic: Creating a market point of view in the AI era
 
@@ -12,8 +12,10 @@ Key takeaway: A clear market point of view tells your customers where the market
 
 LinkedIn content insight: You build thought leadership and credibility through market trend analysis and real-world examples.
 
+---
 
-Post 2
+
+Post 2 - https://www.linkedin.com/posts/aprildunford_in-todays-newsletter-im-talking-about-activity-7463238631441403904-hHDU?utm_source=share&utm_medium=member_desktop&rcm=ACoAACmoN_QBFD7a5oDkSWXKsSYrIq7n4NhkB24
 
 Date: May, 2026
 
@@ -24,8 +26,10 @@ Summary: April explains how companies in quickly developing markets can strategi
 Key takeaway: Strong positioning requires that you balance future goals with customers' present realities.
 LinkedIn content insight: You provide clear structure by delivering framework-driven content about complex strategic concepts.
 
+---
 
-Post 3
+
+Post 3 - https://www.linkedin.com/posts/aprildunford_announcement-new-workbook-and-templates-activity-7453055199038074880-Cghs?utm_source=share&utm_medium=member_desktop&rcm=ACoAACmoN_QBFD7a5oDkSWXKsSYrIq7n4NhkB24
 
 Date: May, 2026
 
@@ -37,8 +41,9 @@ Key takeaway: Robust positioning calls for both standardized frameworks and cons
 
 LinkedIn content insight: You offer value and solidify your authority and expertise by providing educational resources.
 
+---
 
-Post 4
+Post 4 - https://www.linkedin.com/posts/aprildunford_today-an-exec-says-to-me-must-be-easy-activity-7437914348683157504-VITK?utm_source=share&utm_medium=member_desktop&rcm=ACoAACmoN_QBFD7a5oDkSWXKsSYrIq7n4NhkB24
 
 Date: May, 2026
 
@@ -50,21 +55,23 @@ Key takeaway: High-quality content requires a lot of work, reviews, and iteratio
 
 LinkedIn content insight: You humanize your expertise and demonstrate your commitment to quality by sharing content-creation processes.
 
+---
 
-
-Post 5
+Post 5 - 
 
 Date: May, 2026
 
-Topic: Content quality and editorial excellence
 
-Summary: Using the example of her guest article in a major publication again, April emphasizes how multiple editing cycles, feedback loops, design, and revisions are essential to creating great content. She disputes the idea that it's quick or easy to produce good thought leadership content.
+Topic: Positioning roadblocks in B2B SaaS
 
-Key takeaway: The best thought leadership is the product of a careful, team effort.
+Summary: April discusses common but often overlooked positioning challenges that companies face. These include disagreement about competitors, trying to differentiate against too many alternatives, unclear value propositions, and confusion about whether the company is positioning a product, a product suite, or the entire business. She emphasizes that effective positioning requires alignment on competitors, customer value, and differentiation.
 
- LinkedIn content insight: You build trust and encourage others to appreciate expertise by sharing the content-creation process.
+Key Takeaway: Strong positioning comes from clearly defining competitors, customer value, and what exactly is being positioned.
 
- 
+LinkedIn Content Insight: Content performs better when creators communicate a clear point of view, specific differentiation, and a well-defined audience rather than relying on broad or generic messaging.
+
+
+ ---
 
 
 LinkedIn organic content strategy relevance:
