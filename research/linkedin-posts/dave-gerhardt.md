@@ -1,9 +1,9 @@
 
 Dave Gerhardt - LinkedIn Post Analysis
 
-Post 1
+Post 1 - https://www.linkedin.com/posts/davegerhardt_when-i-say-were-building-the-top-community-activity-7470791967061381121-6ijx?utm_source=share&utm_medium=member_desktop&rcm=ACoAACmoN_QBFD7a5oDkSWXKsSYrIq7n4NhkB24
 
-Date: June 12, 2026
+Date: June, 2026
 
 Topic: How to measure B2B community impact
 
@@ -15,9 +15,9 @@ LinkedIn Content Insight: User-generated success stories in a B2B community add 
 
 ---
 
-Post 2
+Post 2 - https://www.linkedin.com/posts/davegerhardt_we-polled-540-b2b-marketers-on-how-they-feel-activity-7470420490621464576-MWC_?utm_source=share&utm_medium=member_desktop&rcm=ACoAACmoN_QBFD7a5oDkSWXKsSYrIq7n4NhkB24
 
-Date: June 11, 2026
+Date: June, 2026
 
 Topic: B2B marketer's perspective on AI
 
@@ -29,9 +29,9 @@ LinkedIn Content Insight: Survey data gives professionals insights and a better 
 
 ---
 
-Post 3
+Post 3 - https://www.linkedin.com/posts/davegerhardt_i-love-writing-about-abm-and-our-audience-activity-7468617621387636736-Z35m?utm_source=share&utm_medium=member_desktop&rcm=ACoAACmoN_QBFD7a5oDkSWXKsSYrIq7n4NhkB24
 
-Date: June 7, 2026
+Date: June, 2026
 
 Topic: B2B marketing with ABM best practices
 
@@ -43,9 +43,9 @@ LinkedIn Content Insight: Educational content like expert interview snippets is 
 
 ---
 
-Post 4
+Post 4 - https://www.linkedin.com/posts/davegerhardt_we-launched-our-cmo-community-last-year-and-activity-7468397845348417537-k7IS?utm_source=share&utm_medium=member_desktop&rcm=ACoAACmoN_QBFD7a5oDkSWXKsSYrIq7n4NhkB24
 
-Date: June 7, 2026
+Date: June, 2026
 
 Topic: Why B2B communities for marketing leaders succeed
 
@@ -57,9 +57,9 @@ LinkedIn Content Insight: Demonstrating how a service or product addresses an au
 
 ---
 
-Post 5
+Post 5 - https://www.linkedin.com/posts/davegerhardt_im-worried-about-my-brain-am-i-relying-activity-7468284788337065984-bqiJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAACmoN_QBFD7a5oDkSWXKsSYrIq7n4NhkB24
 
-Date: June 7, 2026
+Date: June, 2026
 
 Topic: A balanced approach to use AI
 
