@@ -149,6 +149,15 @@ Day 2 - Long-form content examination
 
 Research Scope
 
+As there was no specific indication given in the task on the number of posts/videos for each individual expert. I therefore decided to use the following to provide a mix of short-form and long-form content for all experts while also having enough information for a thorough analysis:
+
+* 5 most recent posts per expert from LinkedIn
+* 1 YouTube video interview/podcast/presentation per expert
+
+This helped to identify the common trends, framework, content strategy, positioning, and audience engagement strategy of each of the 10 experts. The emphasis was on content of relevance and quality of information rather than the quantity.
+
+
+
 Content collected for each expert:
 
 * 5 latest LinkedIn posts
